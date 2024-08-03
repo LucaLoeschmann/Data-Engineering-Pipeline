@@ -18,4 +18,4 @@ The goal is to create an automated, cloud-based data pipeline that continuously 
 
 An article on Medium following my journey through this project can be found [here](https://medium.com/@luca.loeschmann/building-a-cloud-based-data-pipeline-my-data-engineering-story-c4b1b6ac4346).
 
-These are my individual notebooks that were used to create the local pipeline.
+Above are my individual notebooks that were used to create the local pipeline.
